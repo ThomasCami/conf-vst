@@ -1,7 +1,18 @@
 [package]
-name = "conf-vst"
-version = "1.0"
-edition = "2023"
+name = "devfest_synth"
+version = "1.0.0"
+edition = "2021"
+authors = ["Thomas Cami"]
 
+[lib]
+crate-type = ["cdylib"]
 
 [dependencies]
+nih_plug = { version = "*", git = "https://github.com/robbert-vdh/nih-plug" }
+
+[workspace]
+members = [
+    "example",
+    "noise_generator"
+]
+

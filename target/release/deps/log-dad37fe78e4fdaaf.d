@@ -1,0 +1,10 @@
+/home/thomascami/IdeaProjects/Perso/conf-vst/target/release/deps/log-dad37fe78e4fdaaf.rmeta: /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/lib.rs /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/macros.rs /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/serde.rs /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/__private_api.rs
+
+/home/thomascami/IdeaProjects/Perso/conf-vst/target/release/deps/liblog-dad37fe78e4fdaaf.rlib: /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/lib.rs /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/macros.rs /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/serde.rs /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/__private_api.rs
+
+/home/thomascami/IdeaProjects/Perso/conf-vst/target/release/deps/log-dad37fe78e4fdaaf.d: /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/lib.rs /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/macros.rs /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/serde.rs /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/__private_api.rs
+
+/home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/lib.rs:
+/home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/macros.rs:
+/home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/serde.rs:
+/home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/__private_api.rs:

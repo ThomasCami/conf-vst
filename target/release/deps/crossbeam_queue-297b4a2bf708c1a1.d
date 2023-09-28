@@ -1,0 +1,9 @@
+/home/thomascami/IdeaProjects/Perso/conf-vst/target/release/deps/crossbeam_queue-297b4a2bf708c1a1.rmeta: /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/crossbeam-queue-0.3.8/src/lib.rs /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/crossbeam-queue-0.3.8/src/array_queue.rs /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/crossbeam-queue-0.3.8/src/seg_queue.rs
+
+/home/thomascami/IdeaProjects/Perso/conf-vst/target/release/deps/libcrossbeam_queue-297b4a2bf708c1a1.rlib: /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/crossbeam-queue-0.3.8/src/lib.rs /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/crossbeam-queue-0.3.8/src/array_queue.rs /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/crossbeam-queue-0.3.8/src/seg_queue.rs
+
+/home/thomascami/IdeaProjects/Perso/conf-vst/target/release/deps/crossbeam_queue-297b4a2bf708c1a1.d: /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/crossbeam-queue-0.3.8/src/lib.rs /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/crossbeam-queue-0.3.8/src/array_queue.rs /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/crossbeam-queue-0.3.8/src/seg_queue.rs
+
+/home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/crossbeam-queue-0.3.8/src/lib.rs:
+/home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/crossbeam-queue-0.3.8/src/array_queue.rs:
+/home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/crossbeam-queue-0.3.8/src/seg_queue.rs:

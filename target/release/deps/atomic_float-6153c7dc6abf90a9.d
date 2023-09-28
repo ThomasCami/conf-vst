@@ -1,0 +1,9 @@
+/home/thomascami/IdeaProjects/Perso/conf-vst/target/release/deps/atomic_float-6153c7dc6abf90a9.rmeta: /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/atomic_float-0.1.0/src/lib.rs /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/atomic_float-0.1.0/src/atomic_f32.rs /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/atomic_float-0.1.0/src/atomic_f64.rs
+
+/home/thomascami/IdeaProjects/Perso/conf-vst/target/release/deps/libatomic_float-6153c7dc6abf90a9.rlib: /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/atomic_float-0.1.0/src/lib.rs /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/atomic_float-0.1.0/src/atomic_f32.rs /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/atomic_float-0.1.0/src/atomic_f64.rs
+
+/home/thomascami/IdeaProjects/Perso/conf-vst/target/release/deps/atomic_float-6153c7dc6abf90a9.d: /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/atomic_float-0.1.0/src/lib.rs /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/atomic_float-0.1.0/src/atomic_f32.rs /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/atomic_float-0.1.0/src/atomic_f64.rs
+
+/home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/atomic_float-0.1.0/src/lib.rs:
+/home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/atomic_float-0.1.0/src/atomic_f32.rs:
+/home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/atomic_float-0.1.0/src/atomic_f64.rs:

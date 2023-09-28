@@ -1,0 +1,10 @@
+/home/thomascami/IdeaProjects/Perso/conf-vst/target/release/deps/cc-917cc02738f5cb64.rmeta: /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/lib.rs /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/os_pipe.rs /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/os_pipe/unix.rs /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/windows_registry.rs
+
+/home/thomascami/IdeaProjects/Perso/conf-vst/target/release/deps/libcc-917cc02738f5cb64.rlib: /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/lib.rs /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/os_pipe.rs /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/os_pipe/unix.rs /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/windows_registry.rs
+
+/home/thomascami/IdeaProjects/Perso/conf-vst/target/release/deps/cc-917cc02738f5cb64.d: /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/lib.rs /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/os_pipe.rs /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/os_pipe/unix.rs /home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/windows_registry.rs
+
+/home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/lib.rs:
+/home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/os_pipe.rs:
+/home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/os_pipe/unix.rs:
+/home/thomascami/.asdf/installs/rust/1.72.0/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/windows_registry.rs:
