@@ -1,5 +1,5 @@
 [package]
-name = "devfest_synth"
+name = "devfest"
 version = "1.0.0"
 edition = "2021"
 authors = ["Thomas Cami"]
@@ -12,7 +12,8 @@ nih_plug = { version = "*", git = "https://github.com/robbert-vdh/nih-plug" }
 
 [workspace]
 members = [
-    "example",
-    "noise_generator"
+    "synth",
+    "noise_generator",
+    "sin_generator"
 ]
 

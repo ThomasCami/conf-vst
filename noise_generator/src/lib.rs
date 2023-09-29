@@ -89,7 +89,6 @@ impl Plugin for DevFestSynth {
         _context: &mut impl ProcessContext<Self>,
     ) -> ProcessStatus {
         for (_sample_id, channel_samples) in buffer.iter_samples().enumerate() {
-            // Smoothing is optionally built into the parameters themselves
             let gain = self.params.gain.smoothed.next();
 
             for sample in channel_samples {
@@ -104,7 +103,7 @@ impl Plugin for DevFestSynth {
 impl ClapPlugin for DevFestSynth {
     const CLAP_ID: &'static str = "DevFest Noise Generator";
     const CLAP_DESCRIPTION: Option<&'static str> =
-        Some("An optionally MIDI controlled sine test tone");
+        Some("A white noise generator");
     const CLAP_MANUAL_URL: Option<&'static str> = Some(Self::URL);
     const CLAP_SUPPORT_URL: Option<&'static str> = None;
     const CLAP_FEATURES: &'static [ClapFeature] = &[
